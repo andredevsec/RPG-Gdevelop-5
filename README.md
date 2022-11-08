@@ -31,4 +31,9 @@ Jogabilidade
 
 ![image](https://user-images.githubusercontent.com/84422477/200384134-e3eb7fca-4e94-4e9f-92ed-db3906cac250.png)
 
+Imagem do jogo
+
+![image](https://user-images.githubusercontent.com/84422477/200643492-9e889580-c03b-4cbb-a0bf-9a5d5c91a2df.png)
+
+
 [Lizard_Slayer_GDD .pdf](https://github.com/zmm29/RPG-Gdevelop-5/files/9954360/Lizard_Slayer_GDD.pdf)
